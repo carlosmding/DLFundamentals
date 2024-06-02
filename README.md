@@ -7,4 +7,5 @@ Contenido repositorio
 3. Informe entrega final
 
 Enlace vídeo Youtube: https://youtu.be/BDulT1cwZCo
+
 Enlace BD Kaggle: https://www.kaggle.com/competitions/applai-cv-st23-assignment-4/overview
